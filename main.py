@@ -1,1 +1,2 @@
-print('tablero')
+tab = "tablero"
+print(tab)
